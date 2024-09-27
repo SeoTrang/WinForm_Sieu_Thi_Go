@@ -1,0 +1,70 @@
+D:\.Net\sieu_thi_go\bin\Debug\sieu_thi_go.exe.config
+D:\.Net\sieu_thi_go\bin\Debug\sieu_thi_go.exe
+D:\.Net\sieu_thi_go\bin\Debug\sieu_thi_go.pdb
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.AssemblyReference.cache
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.SuggestedBindingRedirects.cache
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.Form1.resources
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.Properties.Resources.resources
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.GenerateResource.cache
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.CoreCompileInputs.cache
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.exe
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.pdb
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.Form_khachhang.resources
+D:\.Net\sieu_thi_go\obj\Debug\sieu_thi_go.Form_sanpham.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\bin\Debug\sieu_thi_go.exe.config
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\bin\Debug\sieu_thi_go.exe
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\bin\Debug\sieu_thi_go.pdb
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.AssemblyReference.cache
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.SuggestedBindingRedirects.cache
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Form1.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Form_danh_muc.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Form_sanpham.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Properties.Resources.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.GenerateResource.cache
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.CoreCompileInputs.cache
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.exe
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.pdb
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Form_thanh_toan.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Form_dangnhap.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Form_dangky.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Form_trang_chu.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_3\sieu_thi_go\obj\Debug\sieu_thi_go.Form_hoa_don.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\bin\Debug\sieu_thi_go.exe.config
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\bin\Debug\sieu_thi_go.exe
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\bin\Debug\sieu_thi_go.pdb
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.AssemblyReference.cache
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.SuggestedBindingRedirects.cache
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form1.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form_dangky.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form_dangnhap.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form_danh_muc.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form_hoa_don.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form_nhanvien.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form_sanpham.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form_thanh_toan.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Form_trang_chu.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.Properties.Resources.resources
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.GenerateResource.cache
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.CoreCompileInputs.cache
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.exe
+D:\.Net\Sieu_thi_go_02\New folder\sieu_thi_go\obj\Debug\sieu_thi_go.pdb
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\bin\Debug\sieu_thi_go.exe.config
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\bin\Debug\sieu_thi_go.exe
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\bin\Debug\sieu_thi_go.pdb
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.AssemblyReference.cache
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.SuggestedBindingRedirects.cache
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form1.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_dangky.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_dangnhap.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_danh_muc.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_hoa_don.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_sanpham.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_thanh_toan.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_trang_chu.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Properties.Resources.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.GenerateResource.cache
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.csproj.CoreCompileInputs.cache
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.exe
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.pdb
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_trang_chu_2.resources
+C:\Users\seotr\Study\Nam_4\.NET\BTL\sieu_thi_go_4\sieu_thi_go\obj\Debug\sieu_thi_go.Form_chi_tiet_hoa_don.resources
